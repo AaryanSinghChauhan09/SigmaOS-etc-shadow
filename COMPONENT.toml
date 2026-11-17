@@ -3,7 +3,7 @@ name = "SigmaOS-etc-shadow"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "etc-shadow component"
+description = "etc shadow"
 upstream = []
 
 [contract]
